@@ -1,0 +1,8 @@
+width = 50
+height = 50
+sampleNumber = 2000
+arcAngle = 200
+gridSize = 2.0
+pixelPerUnit = 12
+seed = 1
+imageNum = 100
